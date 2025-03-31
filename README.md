@@ -12,15 +12,14 @@ Este repositorio tiene como propósito compartir mis soluciones al ir aprendiend
 
 El repositorio está organizado en carpetas que corresponden a los niveles de dificultad de los desafíos:
 
-- **Fácil**: Contiene soluciones a problemas de nivel fácil.
-- **Medio**: Incluso soluciones a desafíos de dificultad media.
+- **Warmup**: Contiene soluciones a problemas de nivel muy facil.
   
 > [!NOTE]
 > Al inicio de cada código, viene indicado el link del respectivo desafío.
 
 ## 📝 Nota
 
-Las variables de los códigos varía entre español e inglés, lo ideal es que para futuros ejemplos unificar un solo idioma (Inglés), para poder compartir de mejor manera los códigos.
+Las variables en el código están en inglés para asegurar un mayor alcance en la documentación.
 
 ## 🛠️ Requisitos
 
