@@ -13,6 +13,12 @@ Este repositorio tiene como propósito compartir mis soluciones al ir aprendiend
 El repositorio está organizado en carpetas que corresponden a los niveles de dificultad de los desafíos:
 
 - **Warmup**: Contiene soluciones a problemas de nivel muy facil.
+- **Strings**: Algoritmos y manipulación de cadenas de texto.
+- **Sorting**: Algoritmos de ordenamiento y problemas relacionados.
+- **Search**: Algoritmos de búsqueda (binaria, lineal, etc.).
+- **Implementation**: Problemas que requieren implementación directa de algoritmos.
+- **Greedy**: Algoritmos voraces y problemas de optimización.
+- **Bit Manipulation**: Operaciones a nivel de bits y manipulación binaria.
   
 > [!NOTE]
 > Al inicio de cada código, viene indicado el link del respectivo desafío.
@@ -20,6 +26,10 @@ El repositorio está organizado en carpetas que corresponden a los niveles de di
 ## 📝 Nota
 
 Las variables en el código están en inglés para asegurar un mayor alcance en la documentación.
+
+## 📝⚒️ Nota - 2
+
+Este repositorio aun se encuentra en desarrollo.
 
 ## 🛠️ Requisitos
 
