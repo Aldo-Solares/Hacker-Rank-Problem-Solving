@@ -10,7 +10,7 @@ Este repositorio tiene como propósito compartir mis soluciones al ir aprendiend
 
 ## 📂 Estructura del Repositorio
 
-El repositorio está organizado en carpetas que corresponden a los niveles de dificultad de los desafíos:
+El repositorio está organizado en carpetas que corresponden a los niveles de conceptos de los desafíos, estos a su vez estan divididos en sus respectivas dificultades:
 
 - **Warmup**: Contiene soluciones a problemas de nivel muy facil.
 - **Strings**: Algoritmos y manipulación de cadenas de texto.
